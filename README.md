@@ -1,5 +1,5 @@
-# Jogo da forca-o
-Adivinhe as palavras nesse mine game
+# Jogo da forca
+Adivinhe as palavras nesse min game
 Escolha a dificuldade e divirta-se
 
 Para jogá-lo basta deixar o arquivo Forca.py e palavras.txt na mesma pasta e iniciá-lo a partir do seu Vs code ou outro programa que use para desenvolver projetos,
